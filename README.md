@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @GuilhermeFerza
-- 🌱 I’m currently learning computer science in Jorge Amado University Center
-- my contacts: guilherme.desouzaferreira2004@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i have a small musical studio in my home
+[README.md](https://github.com/user-attachments/files/20810260/README.md)
