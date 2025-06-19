@@ -8,7 +8,7 @@
 
 - 📫 Contact Me in: **guilherme.desouzaferreira2004@gmail.com**
 
--JavaScript|ReactJS|Node.JS|Java|C|C++|.NET|Ruby|
+<h2 align="center">JavaScript|ReactJS|Node.JS|Java|C|C++|.NET|Ruby|</h2>
 
 ##
 
