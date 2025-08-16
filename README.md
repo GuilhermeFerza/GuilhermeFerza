@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Guilherme Ferreira</h1>
+<h1 align="center">Hi I'm Guilherme Ferza</h1>
 
 <h3 align="center">Full-stack Dev from Brazil</h3>
 
