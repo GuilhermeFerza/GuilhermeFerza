@@ -33,7 +33,7 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerza&layout=donut&show_icons=true&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerza&layout=donut&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
     <source
